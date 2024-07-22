@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "183046636330",
+    "project_id": "koprasims",
+    "storage_bucket": "koprasims.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183046636330:android:882e07f2eabc9d17661453",
+        "android_client_info": {
+          "package_name": "com.koprasim.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183046636330-svvt9pmh52l90gsute58ian58uq55r97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koprasim.project",
+            "certificate_hash": "f779fff1d8f8a6d291f592b4546807d55352a05e"
+          }
+        },
+        {
+          "client_id": "183046636330-47eoc2avas4d2gjp99gofjp3l2g3bi7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQnWSFGDc-DjOA6sT4Eq817-W6GfXvvo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183046636330-47eoc2avas4d2gjp99gofjp3l2g3bi7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
